@@ -1,0 +1,7 @@
+com\infosys\openhack\controller\InsertController.class
+com\infosys\openhack\repository\DMLRepository.class
+com\infosys\openhack\repository\DMLRepository$1.class
+com\infosys\openhack\helper\DMLHelper.class
+com\infosys\openhack\service\DMLService.class
+com\infosys\openhack\main\OpenhackedbpostgresApplication.class
+com\infosys\openhack\model\Table.class
